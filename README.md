@@ -146,10 +146,15 @@ Final Performance (SPSA)
 * The implementation demonstrates the feasibility of applying QNNs to real-world drug discovery tasks.
 ---
 # Repository Structure
+
 ```bash
-├── Quantum_final_project.ipynb
-├── Final_Project_Report.pdf
-├── btac789.pdf
+├── code/
+│   └── Quantum_final_project.ipynb
+│
+├── docs/
+│   ├── HypaCADD_Paper.pdf → Original reference paper
+│   └── Project_Report.pdf → Final course project report
+│
 └── README.md
 ```
 ---
