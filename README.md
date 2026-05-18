@@ -14,6 +14,25 @@
 
 ---
 
+# Table of Contents
+
+- [HypaCADD QNN Implementation](#hypacadd-qnn-implementation)
+- [Project Overview](#project-overview)
+- [Quantum Neural Network Architecture](#quantum-neural-network-architecture)
+- [Features Used](#features-used)
+- [Dataset](#dataset)
+- [Training Configuration](#training-configuration)
+- [Results](#results)
+- [Key Findings](#key-findings)
+- [Repository Structure](#repository-structure)
+- [Technologies Used](#technologies-used)
+- [Reference Paper](#reference-paper)
+- [Course Information](#course-information)
+- [Future Improvements](#future-improvements)
+- [License](#license)
+
+---
+
 # HypaCADD QNN Implementation
 
 A Quantum Neural Network (QNN) implementation based on the **Farhi–Neven architecture** for predicting the impact of genetic mutations on protein–drug binding interactions.
@@ -165,3 +184,4 @@ Bioinformatics, 2023.
 
 * This project is for academic and research purposes.
 
+<div align="center"> <sub>Built with ❤️ using Qiskit and Jupyter Notebooks</sub> </div> 
