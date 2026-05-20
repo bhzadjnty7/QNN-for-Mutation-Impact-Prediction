@@ -185,6 +185,19 @@ Bioinformatics, 2023.
 * Hybrid classical–quantum ensemble models
 * Benchmarking against classical deep learning approaches
 ---
+
+## 👨‍💻 Author
+
+**Behzad Jannati**
+M.Sc. Student – Computer Architecture
+University of Tehran
+
+GitHub: [https://github.com/bhzadjnty7](https://github.com/bhzadjnty7)
+
+Linkedin: [www.linkedin.com/in/behzadjannati](www.linkedin.com/in/behzadjannati)
+
+---
+
 # License
 
 * This project is for academic and research purposes.
