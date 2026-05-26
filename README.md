@@ -198,6 +198,12 @@ Linkedin: [www.linkedin.com/in/behzadjannati](www.linkedin.com/in/behzadjannati)
 
 ---
 
+## ⭐️ Support
+
+If you find this repository useful, consider giving it a ⭐️
+
+---
+
 # License
 
 * This project is for academic and research purposes.
